@@ -2,7 +2,6 @@
 --------
 ## Start:
 - npm start
-or
 - npm run build
 ## Used technologies:
 - JavaScript, WebPack, EmailJS, CSS, HTML
