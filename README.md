@@ -1,5 +1,4 @@
 # home-page
-Responsive home page of a design studio
 --------
 ## Used technologies:
 - JavaScript, WebPack, EmailJS, CSS, HTML
